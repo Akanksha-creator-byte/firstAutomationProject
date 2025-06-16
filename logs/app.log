@@ -1,0 +1,56 @@
+2025-06-16 15:20:50 [main] INFO  Base.BaseTest - Extent report initialized
+2025-06-16 15:20:53 [main] INFO  Base.BaseTest - Browser launched and navigated to example.com
+2025-06-16 15:20:53 [main] INFO  page.LoginPage - Attempting to login with Username: user1@test.com
+2025-06-16 15:20:59 [main] INFO  page.LoginPage - Attempting to login with Username: user2@test.com
+2025-06-16 15:21:04 [main] INFO  page.LoginPage - Attempting to login with Username: admin@test.com
+2025-06-16 15:21:09 [main] INFO  Base.BaseTest - Browser closed successfully
+2025-06-16 15:25:50 [main] INFO  Base.BaseTest - Extent report initialized
+2025-06-16 15:25:53 [main] INFO  Base.BaseTest - Browser launched and navigated to example.com
+2025-06-16 15:25:54 [main] INFO  page.LoginPage - Attempting to login with Username: user1@test.com
+2025-06-16 15:25:54 [main] INFO  page.LoginPage - Attempting to login with password: pass123
+2025-06-16 15:25:54 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 15:25:57 [main] INFO  page.LoginPage - Attempting to login with Username: user2@test.com
+2025-06-16 15:26:02 [main] INFO  page.LoginPage - Attempting to login with Username: admin@test.com
+2025-06-16 15:26:08 [main] INFO  page.LoginPage - Attempting to login with password: admin@1234
+2025-06-16 15:26:08 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 15:26:20 [main] INFO  Base.BaseTest - Browser closed successfully
+2025-06-16 15:53:13 [main] INFO  Base.BaseTest - Extent report initialized
+2025-06-16 15:53:16 [main] INFO  Base.BaseTest - Browser launched and navigated to example.com
+2025-06-16 15:53:17 [main] INFO  page.LoginPage - Attempting to login with Username: user1@test.com
+2025-06-16 15:53:17 [main] INFO  page.LoginPage - Attempting to login with password: pass123
+2025-06-16 15:53:17 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 15:53:22 [main] INFO  page.LoginPage - Attempting to login with Username: user2@test.com
+2025-06-16 15:53:27 [main] INFO  page.LoginPage - Attempting to login with Username: admin@test.com
+2025-06-16 15:53:28 [main] INFO  page.LoginPage - Attempting to login with password: admin@1234
+2025-06-16 15:53:28 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 15:53:40 [main] INFO  Base.BaseTest - Browser closed successfully
+2025-06-16 15:56:49 [main] INFO  Base.BaseTest - Extent report initialized
+2025-06-16 15:56:51 [main] INFO  Base.BaseTest - Browser launched and navigated to example.com
+2025-06-16 15:56:52 [main] INFO  page.LoginPage - Attempting to login with Username: jdhfksd
+2025-06-16 15:56:52 [main] INFO  page.LoginPage - Attempting to login with password: pass123
+2025-06-16 15:56:52 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 15:56:54 [main] INFO  page.LoginPage - Attempting to login with Username: ranveer
+2025-06-16 15:56:54 [main] INFO  page.LoginPage - Attempting to login with password: 8.551071433E9
+2025-06-16 15:56:54 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 15:57:01 [main] INFO  page.LoginPage - Attempting to login with Username: 
+2025-06-16 15:57:06 [main] INFO  Base.BaseTest - Browser closed successfully
+2025-06-16 16:10:27 [main] INFO  Base.BaseTest - Extent report initialized
+2025-06-16 16:10:29 [main] INFO  Base.BaseTest - Browser launched and navigated to example.com
+2025-06-16 16:10:30 [main] INFO  page.LoginPage - Attempting to login with Username: jdhfksd
+2025-06-16 16:10:30 [main] INFO  page.LoginPage - Attempting to login with password: pass123
+2025-06-16 16:10:30 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 16:10:33 [main] INFO  page.LoginPage - Attempting to login with Username: ranveer
+2025-06-16 16:10:33 [main] INFO  page.LoginPage - Attempting to login with password: 8.551071433E9
+2025-06-16 16:10:33 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 16:10:39 [main] INFO  page.LoginPage - Attempting to login with Username: 
+2025-06-16 16:10:45 [main] INFO  Base.BaseTest - Browser closed successfully
+2025-06-16 16:16:58 [main] INFO  Base.BaseTest - Extent report initialized
+2025-06-16 16:17:01 [main] INFO  Base.BaseTest - Browser launched and navigated to example.com
+2025-06-16 16:17:02 [main] INFO  page.LoginPage - Attempting to login with Username: jdhfksd
+2025-06-16 16:17:02 [main] INFO  page.LoginPage - Attempting to login with password: pass123
+2025-06-16 16:17:02 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 16:17:04 [main] INFO  page.LoginPage - Attempting to login with Username: ranveer
+2025-06-16 16:17:04 [main] INFO  page.LoginPage - Attempting to login with password: 8.551071433E9
+2025-06-16 16:17:04 [main] INFO  page.LoginPage - Clicked login button
+2025-06-16 16:17:12 [main] INFO  page.LoginPage - Attempting to login with Username: 
+2025-06-16 16:17:17 [main] INFO  Base.BaseTest - Browser closed successfully
